@@ -1,5 +1,7 @@
 # pos
 
+[![Live Site](https://img.shields.io/badge/Live-Site-blue)](https://adamsinki.github.io/Schooly.github.io/)
+
 A new Flutter project.
 
 ## Getting Started
