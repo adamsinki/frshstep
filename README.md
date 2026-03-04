@@ -1,6 +1,6 @@
 # pos
 
-[![Live Site](https://img.shields.io/badge/Live-Site-blue)](https://adamsinki.github.io/Schooly.github.io/)
+[![Live Site](https://img.shields.io/badge/Live-Site-blue)](https://adamsinki.github.io/frshstep/)
 
 A new Flutter project.
 
