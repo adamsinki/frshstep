@@ -1,0 +1,25 @@
+Analyzing pos...                                                
+
+warning - The value of the field '_phoneNumber' isn't used - lib\screens\login_screen.dart:13:10 - unused_field
+
+flutter : 1 issue 
+found. (ran in 2.1s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+admin_check.txt 2>&1; 
+Get-Content admin_ch 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (1 issue fo   
+ und. (ran in 2.1s    
+):String) [], Rem    
+oteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 

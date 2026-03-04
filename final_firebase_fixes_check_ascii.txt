@@ -1,0 +1,26 @@
+Analyzing pos...                                                
+
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\login_screen.dart:110:35 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\login_screen.dart:111:52 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\login_screen.dart:116:23 - use_build_context_synchronously
+
+flutter : 3 issues 
+found. (ran in 1.9s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > final_fireb
+ase_fixes_check.txt 
+2>&1; Get-C ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (3 issues f   
+ ound. (ran in 1.9    
+s):String) [], Re    
+moteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 

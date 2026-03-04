@@ -1,0 +1,24 @@
+Analyzing pos...                                                
+
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\admin_screen.dart:67:17 - deprecated_member_use
+
+flutter : 1 issue 
+found. (ran in 3.6s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > stock_refac
+tor_check.txt 2>&1; 
+Get-Content ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (1 issue fo   
+ und. (ran in 3.6s    
+):String) [], Rem    
+oteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 

@@ -1,0 +1,26 @@
+Analyzing pos...                                                
+
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\sales_screen.dart:462:37 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\sales_screen.dart:463:37 - deprecated_member_use
+
+flutter : 2 issues 
+found. (ran in 4.3s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+final_stock_check.txt 
+2>&1; Get-Content fi 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (2 issues f   
+ ound. (ran in 4.3    
+s):String) [], Re    
+moteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 

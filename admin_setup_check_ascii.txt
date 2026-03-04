@@ -1,0 +1,26 @@
+Analyzing pos...                                                
+
+  error - Arguments of a constant creation must be constant expressions - lib\screens\login_screen.dart:126:32 - const_with_non_constant_argument
+  error - The getter 'setup_outlined' isn't defined for the type 'Icons' - lib\screens\login_screen.dart:126:38 - undefined_getter
+
+flutter : 2 issues 
+found. (ran in 3.2s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+admin_setup_check.txt 
+2>&1; Get-Content ad 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (2 issues f   
+ ound. (ran in 3.2    
+s):String) [], Re    
+moteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 

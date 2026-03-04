@@ -1,0 +1,30 @@
+Analyzing pos...                                                
+
+   info - The parameter name 'sum' matches a visible type name - lib\screens\admin_screen.dart:150:8 - avoid_types_as_parameter_names
+   info - Don't use 'BuildContext's across async gaps - lib\screens\login_screen.dart:56:11 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\login_screen.dart:104:35 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\login_screen.dart:105:52 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\login_screen.dart:109:21 - use_build_context_synchronously
+
+flutter : 5 issues 
+found. (ran in 3.0s)
+At line:1 char:18
++ ... er pub get; 
+flutter analyze 
+--no-pub > final_fireb
+ase_check.txt 2>&1; 
+...
++                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (5 issues f   
+ ound. (ran in 3.0    
+s):String) [], Re    
+moteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 

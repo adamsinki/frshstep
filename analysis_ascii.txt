@@ -1,0 +1,29 @@
+Analyzing pos...                                                
+
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\main.dart:416:33 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\main.dart:417:33 - deprecated_member_use
+  error - Expected to find ']' - lib\main.dart:501:15 - expected_token
+  error - Too many positional arguments: 0 expected, but 1 found - lib\main.dart:502:15 - extra_positional_arguments_could_be_named
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\main.dart:515:47 - deprecated_member_use
+  error - Expected to find ')' - lib\main.dart:529:9 - expected_token
+
+flutter : 6 issues 
+found. (ran in 2.4s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+analysis.txt 2>&1; 
+cat analysis.txt
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (6 issues f   
+ ound. (ran in 2.4    
+s):String) [], Re    
+moteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 

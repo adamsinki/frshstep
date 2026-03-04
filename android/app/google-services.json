@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103667654031",
+    "project_id": "zaid-point-of-sale",
+    "storage_bucket": "zaid-point-of-sale.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103667654031:android:33db69a9ce08a97e8cfffa",
+        "android_client_info": {
+          "package_name": "com.example.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXeYaUiVMUQGA_1o6JeRMHAUgLUI5FrCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

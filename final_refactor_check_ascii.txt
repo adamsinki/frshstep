@@ -1,0 +1,25 @@
+Analyzing pos...                                                
+
+warning - The value of the field '_phoneNumber' isn't used - lib\screens\login_screen.dart:13:10 - unused_field
+
+flutter : 1 issue 
+found. (ran in 2.9s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > final_refac
+tor_check.txt 2>&1; 
+Get-Content ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+    + CategoryInfo    
+          : 
+NotSpecified: (1 i    
+ssue found. (ran in 
+2.    9s):String) [], 
+Remote    Exception
+    + 
+FullyQualifiedErrorI  
+  d : 
+NativeCommandError
+ 

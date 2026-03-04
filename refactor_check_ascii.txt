@@ -1,0 +1,31 @@
+Analyzing pos...                                                
+
+  error - Target of URI doesn't exist: 'lib/screens/sales_screen.dart' - lib\main.dart:2:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: 'lib/screens/login_screen.dart' - lib\main.dart:3:8 - uri_does_not_exist
+  error - The name 'SalesScreen' isn't a class - lib\main.dart:38:33 - creation_with_non_type
+  error - The name 'LoginScreen' isn't a class - lib\main.dart:39:38 - creation_with_non_type
+warning - The value of the field '_phoneNumber' isn't used - lib\screens\login_screen.dart:13:10 - unused_field
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\sales_screen.dart:391:39 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\screens\sales_screen.dart:392:39 - deprecated_member_use
+
+flutter : 7 issues 
+found. (ran in 2.5s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+refactor_check.txt 
+2>&1; Get-Content 
+refac ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (7 issues f   
+ ound. (ran in 2.5    
+s):String) [], Re    
+moteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
